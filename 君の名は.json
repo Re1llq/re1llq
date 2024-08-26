@@ -1,0 +1,80 @@
+{
+    "name": "Custom Enmity Theme",
+    "description": "A custom theme based on the provided image with accurate colors.",
+    "authors": [
+        {
+            "name": "Re1llq",
+            "id": "878984783298977822"
+        }
+    ],
+    "background": {
+        "url": "https://x.gd/UVs7D",
+        "color": "#2a3d59",
+        "alpha": 0.8,
+        "blur": 0.5
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": "#4f5d75",
+        "HEADER_SECONDARY": "#4f5d75",
+        "TEXT_NORMAL": "#b4c0d3",
+        "TEXT_PRIMARY": "#b4c0d3",
+        "TEXT_MUTED": "#a1b2c3",
+        "INTERACTIVE_NORMAL": "#4f5d75",
+        "INTERACTIVE_HOVER": "#5a6f8c",
+        "INTERACTIVE_ACTIVE": "#6b7e9b",
+        "BACKGROUND_PRIMARY": "#2a3d59",
+        "BACKGROUND_SECONDARY": "#1d2a40",
+        "BACKGROUND_FLOATING": "#2b3b52",
+        "BACKGROUND_ACCENT": "#1f2a39",
+        "TEXT_LINK": "#4f5d75",
+        "TEXT_DANGER": "#ff4500"
+    },
+    "rawColors": {
+        "PRIMARY_500": "#4f5d75",
+        "PRIMARY_200": "#4f5d75",
+        "PRIMARY_300": "#4f5d75",
+        "PRIMARY_600": "#4f5d75",
+        "PRIMARY_800": "#4f5d75"
+    },
+    "fonts": {
+        "primary": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "16px",
+            "weight": "400",
+            "color": "#b4c0d3"
+        },
+        "secondary": {
+            "family": "Arial, Helvetica, sans-serif",
+            "size": "14px",
+            "weight": "300",
+            "color": "#b4c0d3"
+        }
+    },
+    "components": {
+        "header": {
+            "background": "#2a3d59",
+            "text": "#b4c0d3"
+        },
+        "sidebar": {
+            "background": "#1d2a40",
+            "text": "#b4c0d3"
+        },
+        "input": {
+            "background": "#1d2a40",
+            "text": "#b4c0d3",
+            "border": "1px solid #2b3b52"
+        },
+        "message": {
+            "background": "#2a3d59",
+            "text": "#b4c0d3"
+        },
+        "server": {
+            "background": "#1d2a40",
+            "text": "#b4c0d3"
+        },
+        "channel": {
+            "background": "#1f2a39",
+            "text": "#b4c0d3"
+        }
+    }
+}
